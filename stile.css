@@ -1,0 +1,560 @@
+.text1{
+    position: absolute;
+width: 376px;
+height: 263px;
+left: 165px;
+top: 291px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.button{
+    position: absolute;
+width: 199px;
+height: 60px;
+left: 195px;
+top: 601px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #26C7EA;
+background-color:#0B0E66;
+}
+.text2{
+    position: absolute;
+width: 1002px;
+height: 44px;
+left: 179px;
+top: 816px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+text-align: justify;
+
+color: #0A3853;
+}
+.sally{
+    position: absolute;
+width: 151px;
+height: 29px;
+left: 619px;
+top: 940px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+text-align: justify;
+
+color: #000000;
+
+
+}
+.img1{
+    position: absolute;
+width: 400px;
+height: 120px;
+left: 480px;
+top: 1033px;
+}
+.img2{
+    position: absolute;
+    width: 1374px;
+    height: 700px;
+    left: 15px;
+    top: 1200px;
+}
+.button2{
+    position: absolute;
+width: 221px;
+height: 30px;
+left: 569px;
+top: 1398px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+text-align: justify;
+
+color: #26C7EA;
+background-color:#0B0E66;
+}
+.text3{
+    position: absolute;
+width: 886px;
+height: 44px;
+left: 251px;
+top: 1900px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+text-align: justify;
+
+color: #0A3853;
+}
+.img3{
+    position: absolute;
+width: 400px;
+height: 120px;
+left: 480px;
+top: 2081px;
+
+}
+.sally2{
+    position: absolute;
+width: 151px;
+height: 29px;
+left: 620px;
+top: 2030px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+text-align: justify;
+
+color: #000000;
+
+}
+.p1{
+    position: absolute;
+width: 1359px;
+height: 664px;
+left: -1px;
+top: 2223px;
+
+}
+.p6-1{
+    position: absolute;
+    width: 152px;
+    height: 40px;
+    left: 1112px;
+    top: 2383px;
+}
+.p6-2{
+    position: absolute;
+    width: 152px;
+    height: 40px;
+    left: 1112px;
+    top: 2647px;
+    
+}
+.p4-1{
+    position: absolute;
+    width: 152px;
+    height: 40px;
+    left: 249px;
+    top: 2383px;
+
+}
+.p4-2{
+    position: absolute;
+width: 152px;
+height: 40px;
+left: 248px;
+top: 2650px;
+
+}
+.p5-1{
+    position: absolute;
+width: 152px;
+height: 40px;
+left: 604px;
+top: 2383px;
+}
+.p5-2{
+    position: absolute;
+width: 152px;
+height: 40px;
+left: 604px;
+top: 2647px;
+
+}
+.m1{
+    position: absolute;
+width: 80px;
+height: 24px;
+left: 285px;
+top: 2279px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+}
+.m2{
+    position: absolute;
+width: 139px;
+height: 24px;
+left: 611px;
+top: 2279px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+}
+.m3{
+    position: absolute;
+width: 160px;
+height: 24px;
+left: 979px;
+top: 2279px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+}
+.m4{
+    position: absolute;
+width: 75px;
+height: 24px;
+left: 287px;
+top: 2543px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+
+}
+.m5{
+    position: absolute;
+width: 141px;
+height: 24px;
+left: 610px;
+top: 2543px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+}
+.m6{
+    position: absolute;
+width: 196px;
+height: 24px;
+left: 938px;
+top: 2543px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+
+}
+.n1{
+    position: absolute;
+width: 75px;
+height: 24px;
+left: 287px;
+top: 2423px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+
+}
+.n2{
+    position: absolute;
+width: 263px;
+height: 24px;
+left: 548px;
+top: 2423px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+}
+.n3{
+    position: absolute;
+width: 107px;
+height: 24px;
+left: 982px;
+top: 2423px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+
+}
+.n4{
+    position: absolute;
+width: 96px;
+height: 24px;
+left: 276px;
+top: 2687px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+}
+.n5{
+    position: absolute;
+width: 210px;
+height: 24px;
+left: 575px;
+top: 2687px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+}
+.n6{
+    
+position: absolute;
+width: 123px;
+height: 24px;
+left: 974px;
+top: 2687px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+text-align: justify;
+
+color: #000000;
+}
+.text4{
+    position: absolute;
+    width: 938px;
+    height: 44px;
+    left: 211px;
+    top: 2872px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    
+    text-align: justify;
+    
+    color: #0A3853;
+}
+.sally2{
+    position: absolute;
+    width: 84px;
+    height: 29px;
+    left: 633px;
+    top: 2980px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-align: justify;
+    
+    color: #000000;  
+
+
+}
+.l2{
+    position: absolute;
+width: 400px;
+height: 120px;
+left: 480px;
+top: 3137px;
+
+}
+.p7{
+    position: absolute;
+width: 1361px;
+height: 268px;
+left: -1px;
+top: 3145px;
+
+}
+.imp{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 440px;
+    height: 40px;
+    left: 460px;
+    top: 3700px;
+    
+    background: #F2EAEA;
+    border: 2px solid #0B0E66;
+}
+.immp{
+    position: absolute;
+width: 61px;
+height: 29px;
+left: 460px;
+top: 3650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+text-align: justify;
+
+color: #0B0E66;
+
+
+}
+.imp2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 440px;
+    height: 40px;
+    left: 460px;
+    top: 3800px;
+    
+    background: #F2EAEA;
+    border: 2px solid #0B0E66;
+}
+.immp2{
+    position: absolute;
+    width: 61px;
+    height: 29px;
+    left: 460px;
+    top: 3750px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-align: justify;
+    
+    color: #0B0E66;
+    
+}
+.button1{
+    position: absolute;
+width: 163px;
+height: 60px;
+left: 599px;
+top: 3900px;
+
+font-family: 'HeadlandOne';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #26C7EA;
+background-color:#0B0E66;
+}
+
+
+
